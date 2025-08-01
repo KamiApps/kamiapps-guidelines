@@ -18,7 +18,7 @@ Bu rehber aşağıdaki konularda standartlaşma sağlar:
 - [Platform Konfigürasyonları](#-platform-konfigürasyonları)
 - [Dosya ve Klasör Organizasyonu](#-dosya-ve-klasör-organizasyonu)
 - [Sürüm Yönetimi](#-sürüm-yönetimi)
-- [Git İş Akışı](#git-iş-akışı)
+- [Git İş Akışı](#-git-iş-akışı)
 - [Test Süreçleri](#-test-süreçleri)
 - [Abonelik Sistemleri](#-abonelik-sistemleri)
 - [İsimlendirme Stili Referansı](#-i̇simlendirme-stili-referansı)
