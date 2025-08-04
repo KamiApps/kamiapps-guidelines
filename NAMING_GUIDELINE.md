@@ -34,7 +34,7 @@ Projeler platform bazında **kebab-case** formatında isimlendirilir:
 |----------|---------------|------------------|
 | Android  | `{proje-adı}-android` | `sample-android` |
 | iOS      | `{proje-adı}-ios` | `sample-ios` |
-| Paylaşılan SDK | `{proje-adı}-sdk` | `sample-sdk` |
+| Paylaşılan SDK | `{proje-adı}-sdk-{platform}` | `sample-sdk-android` |
 | Backend API | `{proje-adı}-api` | `sample-api` |
 
 **Örnek Proje Seti:**
