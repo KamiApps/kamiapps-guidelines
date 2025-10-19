@@ -32,10 +32,10 @@ Projeler platform bazında **kebab-case** formatında isimlendirilir:
 
 | Platform | Format Kuralı | Örnek Repository |
 |----------|---------------|------------------|
-| Android  | `{proje-adı}-android` | `sample-android` |
-| iOS      | `{proje-adı}-ios` | `sample-ios` |
-| Paylaşılan SDK | `{proje-adı}-sdk-{platform}` | `sample-sdk-android` |
-| Backend API | `{proje-adı}-api` | `sample-api` |
+| Android  | `{projeadı}-android` | `sample-android` |
+| iOS      | `{projeadı}-ios` | `sample-ios` |
+| Paylaşılan SDK | `{projeadı}-sdk-{platform}` | `sample-sdk-android` |
+| Backend API | `{projeadı}-api` | `sample-api` |
 
 **Örnek Proje Seti:**
 ```
